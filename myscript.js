@@ -1,4 +1,4 @@
 
 function showfunction(){
-	alert("Hello Everyone!");
+	alert("Hello Everyone! :)");
 }
